@@ -15,6 +15,8 @@
 
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
+[<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][LinkedIn]
+[<img align="left" alt="email" width="30px" src="https://i.ibb.co/0Mr1ZMr/gmail.png" />][Email]
 
 <br>
 
@@ -33,3 +35,5 @@
 <img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 
 [Telegram]: https://t.me/eugene17kotov
+[LinkedIn]: https://www.linkedin.com/in/yevhenii-kobets/
+[Email]: mailto:eu.kobets@gmail.com
