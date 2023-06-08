@@ -9,7 +9,7 @@
   I'm a Full Stack developer.💻<br>
   I'm looking for a job now.📜 <br>
   Hope you enjoy my profile!🙂 <br>
-  At this link you can see my interactive portfolio with projects.</b>
+  At this link you can see my interactive portfolio with projects.</b> <br>
   [🪄PORTFOLIO📨](https://portfolio-eugene17kotov.vercel.app)
 
 #### Current location: Dnipro🏠
