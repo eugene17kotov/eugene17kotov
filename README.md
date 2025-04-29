@@ -24,15 +24,12 @@
 <img align="left" alt="Go" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968340.png" />
 <img align="left" alt="Node.js" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Tailwind CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="35px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Prisma" width="35px" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" />
 <img align="left" alt="PostgreSQL" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://i.ibb.co/54yxf1R/mongodb.png" />
 <img align="left" alt="Docker" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img align="left" alt="Stripe" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
-<img align="left" alt="GraphQL" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968692.png" />
-<img align="left" alt="JSON-RPC" width="35px" src="https://static-00.iconduck.com/assets.00/api-icon-256x256-57x0z0pt.png" />
-<img align="left" alt="Web3" width="35px" src="https://cryptologos.cc/logos/ethereum-eth-logo.png" />
 
 <br><br>
 
