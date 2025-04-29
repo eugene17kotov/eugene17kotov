@@ -8,10 +8,8 @@
   My name is Yevhenii.<br>
   I'm a Full Stack developer.💻<br>
   Hope you enjoy my profile!🙂 <br>
-  At this link you can see my interactive portfolio with projects.</b> <br>
-  [🪄PORTFOLIO📨](https://portfolio-eugene17kotov.vercel.app)
 
-#### Current location: Dnipro🏠
+### Current location: Dnipro🏠
 
 ## Contact me:
 [<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][Telegram]
@@ -21,18 +19,22 @@
 <br>
 
 ## My skills:
-<img align="left" alt="HTML5" width="35px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
-<img align="left" alt="CSS3" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img align="left" alt="TypeScript" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-<img align="left" alt="ReactJS" width="35px" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" />
-<img align="left" alt="Redux" width="35px" src="https://i.ibb.co/0cj9MGy/redux.png" />
+<img align="left" alt="Go" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968340.png" />
 <img align="left" alt="Node.js" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+<img align="left" alt="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Prisma" width="35px" src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" />
+<img align="left" alt="PostgreSQL" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://i.ibb.co/54yxf1R/mongodb.png" />
-<img align="left" alt="MySQL" width="35px" src="https://i.ibb.co/jvtwpC4/mysql.png" />
-<img align="left" alt="Webpack" width="35px" src="https://i.ibb.co/BBxMQQS/webpack.png" />
-<img align="left" alt="Git" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" />
-<img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+<img align="left" alt="Docker" width="35px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+<img align="left" alt="Stripe" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
+<img align="left" alt="GraphQL" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968692.png" />
+<img align="left" alt="JSON-RPC" width="35px" src="https://static-00.iconduck.com/assets.00/api-icon-256x256-57x0z0pt.png" />
+<img align="left" alt="Web3" width="35px" src="https://cryptologos.cc/logos/ethereum-eth-logo.png" />
+
+<br><br>
 
 [Telegram]: https://t.me/eugene17kotov
 [LinkedIn]: https://www.linkedin.com/in/yevhenii-kobets/
